@@ -3874,7 +3874,7 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-    padding-top: var(--vspace-7);
+    padding-top: var(--vspace-5);
     color      : var(--color-3);
 }
 
@@ -3944,7 +3944,7 @@ td:last-child {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-    padding-top   : var(--vspace-6);
+    padding-top   : var(--vspace-3);
     padding-bottom: var(--vspace-1);
 }
 
@@ -4204,7 +4204,7 @@ td:last-child {
     --bottom-padding: var(--vspace-2_5);
     background-color: var(--color-3);
     margin-top      : auto;
-    padding-top     : var(--vspace-6);
+    padding-top     : var(--vspace-3);
     padding-bottom  : var(--bottom-padding);
     color           : var(--color-gray-15);
 }
