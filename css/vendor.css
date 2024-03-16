@@ -987,7 +987,7 @@ button.swiper-pagination-bullet {
 .ginlined-content {
     overflow: auto;
     display : block !important;
-    opacity : 1;
+    opacity : 4;
 }
 
 .gslide-external {
