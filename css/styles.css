@@ -2824,8 +2824,8 @@ td:last-child {
  * ------------------------------------------------------------------- */
 .glightbox-container a {
     font-weight  : 500 !important;
-    color        : var(--color-1);
-    border-bottom: 1px dotted var(--color-1);
+    color        : var(purple);
+    border-bottom: 1px dotted var(purple);
 }
 
 .glightbox-container .gslide-inner-content {
