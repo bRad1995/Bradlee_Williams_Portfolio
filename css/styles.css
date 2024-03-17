@@ -1200,7 +1200,7 @@ body {
 /* links
  */
 a {
-    color     : var(--color-link);
+    color     :purple;
     transition: all 0.3s ease-in-out;
 }
 
@@ -2721,7 +2721,7 @@ td:last-child {
 .section-header {
     display      : flex;
     align-items  : flex-start;
-    margin-bottom: var(--vspace-3_5);
+    margin-bottom: var(--vspace-1_5);
     position     : relative;
 }
 
@@ -2824,7 +2824,7 @@ td:last-child {
  * ------------------------------------------------------------------- */
 .glightbox-container a {
     font-weight  : 500 !important;
-    color        : var(purple);
+    color        :purple;
     border-bottom: 1px dotted var(purple);
 }
 
