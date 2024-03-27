@@ -2726,7 +2726,7 @@ td:last-child {
 }
 
 .section-header .text-display-title {
-    padding-top  : 0.5em;
+    padding-top  : -5.0em;
     margin-bottom: 0;
     position     : relative;
 }
@@ -3933,7 +3933,7 @@ td:last-child {
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 800px) {
     .s-about {
-        padding-top: var(--vspace-5);
+        padding-top: var(--vspace-2);
     }
 }
 
